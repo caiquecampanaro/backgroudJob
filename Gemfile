@@ -25,7 +25,7 @@ gem 'devise'
 gem 'mailcatcher'
 
 gem "redis", "~> 4.2"
-gem "sidekiq", "~> 6.2"
+gem "sidekiq", "~> 7.3"
 #gem "sidekiq-unique-jobs", "~> 6.0"
 #gem "sidekiq-scheduler", "~> 3.0"
 #gem "sidekiq-cron", "~> 1.2"
